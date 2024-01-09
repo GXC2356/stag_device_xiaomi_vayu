@@ -1,0 +1,1 @@
+# stag_device_xiaomi_vayu
